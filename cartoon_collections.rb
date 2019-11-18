@@ -29,3 +29,5 @@ def find_the_cheese(array)
       array.include?(x)
   end
 end
+
+find_the_cheese(@cheese_types)
